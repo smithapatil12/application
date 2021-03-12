@@ -1,0 +1,13 @@
+com/example/logindemo/BuildConfig.java
+ com.example.logindemo.BuildConfig
+com/example/logindemo/SecondActivity.java
+ com.example.logindemo.SecondActivity
+com/example/logindemo/RegistrationActivity.java
+ com.example.logindemo.RegistrationActivity
+ com.example.logindemo.RegistrationActivity$1
+ com.example.logindemo.RegistrationActivity$1$1
+ com.example.logindemo.RegistrationActivity$2
+com/example/logindemo/MainActivity.java
+ com.example.logindemo.MainActivity
+ com.example.logindemo.MainActivity$1
+ com.example.logindemo.MainActivity$2
